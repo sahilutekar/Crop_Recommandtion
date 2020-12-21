@@ -1,6 +1,7 @@
 # Crop_Recommandtion
 Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you a dataset which would allow the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
 Data fields
+
 N - ratio of Nitrogen content in soil
 P - ratio of Phosphorous content in soil
 K - ration of Potassium content in soil
